@@ -2,7 +2,7 @@
 
 A simple command-line port scanner.
 
-<img src="imgs/Pshot.PNG">
+<img src="img/Pshot.PNG">
 
 ## Usage
 
